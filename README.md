@@ -5,4 +5,4 @@ The purpose of this repo is to distribute information for the Data Scrum 'The Gr
 
 # Sample Notebooks
 
-* [DataScrum Sample MyBinder Notebook v1](https://mybinder.org/v2/gh/datascrum/hackathon/master)
+* [DataScrum Sample MyBinder Notebooks](https://mybinder.org/v2/gh/datascrum/hackathon/master)
